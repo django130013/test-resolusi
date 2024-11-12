@@ -1,5 +1,7 @@
 tes resolusi satu
 - A
+  * a
+  * b
 - B
 - C
 - D
