@@ -2,3 +2,5 @@ Resolusi
 - satu
 - dua
 - tiga
+- empat
+- lima
