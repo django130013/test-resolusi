@@ -5,3 +5,4 @@ tes resolusi satu
 - B
 - C
 - D
+- E
